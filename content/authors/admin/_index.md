@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
  education:
    courses:
-    - course: Ph.D. in Economics
+    - course: PhD in Economics
       institution: Emory University
       year: 2026 (expected)
-    - course: B.A. in Economics and Mathematics
+    - course: BA in Economics and Mathematics
       institution: Georgetown University
       year: 2021 
 
