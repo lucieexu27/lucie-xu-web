@@ -21,23 +21,18 @@ interests:
   - Game Theory
   - Applied Microeconomics
 
-education:
-- icon: graduation-cap
-  - Ph.D. in Economics, 2025 (expected)
-  - Applied Microeconomics
+
 
 # Education to show in About widget
-# education:
+ education:
   # courses:
-   # - course: PhD in Artificial Intelligence
-    #  institution: Stanford University
-     # year: 2012
-    #- course: MEng in Artificial Intelligence
-     # institution: Massachusetts Institute of #Technology
-      #year: 2009
-    #- course: BSc in Artificial Intelligence
-     # institution: Massachusetts Institute of Technology
-      #year: 2008
+    - Ph.D. in Economics
+      institution: Emory University
+      year: 2026 (expected)
+    - B.A. in Economics and Mathematics
+      institution: Georgetown Univerisity
+      year: 2021 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
