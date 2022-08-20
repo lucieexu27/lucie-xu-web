@@ -19,6 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Game Theory
+  - Industrial Organization
   - Applied Microeconomics
 
 # Education to show in About widget
