@@ -21,14 +21,12 @@ interests:
   - Game Theory
   - Applied Microeconomics
 
-
-
 # Education to show in About widget
- education:
-   courses:
+education:
+  courses:
     - course: PhD in Economics
       institution: Emory University
-      year: 2026 (expected)
+      year: 2026
     - course: BA in Economics and Mathematics
       institution: Georgetown University
       year: 2021 
@@ -45,9 +43,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LucieXuEcon
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-   # icon_pack: fas
-   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/lucieexu27
