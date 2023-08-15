@@ -19,8 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Game Theory
-  - Industrial Organization
-  - Applied Microeconomics
+  - Information Design
 
 # Education to show in About widget
 education:
@@ -65,5 +64,5 @@ social:
 highlight_name: true
 ---
 
-Lucie Xu is a 2nd year Ph.D. student of Economics at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. She has worked as a summer research intern at the Office of the Comptroller of the Currency in Washington, DC. Lucie’s primary research interest is microeconomic theory.
+Lucie Xu is a 3rd year Ph.D. student of Economics at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. She has worked as a summer research intern at the Office of the Comptroller of the Currency in Washington, DC. Lucie’s primary research interest is microeconomic theory.
 
