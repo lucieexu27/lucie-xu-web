@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Emory University
-      year: 2026
+      year: 2026 (expected)
     - course: BA in Economics and Mathematics
       institution: Georgetown University
       year: 2021 
@@ -64,5 +64,5 @@ social:
 highlight_name: true
 ---
 
-Lucie Xu is a 3rd year Ph.D. student of Economics at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. She has worked as a summer research intern at the Office of the Comptroller of the Currency in Washington, DC. Lucie’s primary research interest is microeconomic theory.
+Lucie Xu is a 3rd year Ph.D. student of Economics and George. W. Woodruff Fellow at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. Lucie’s primary research interest is microeconomic theory, specifically information design and privacy.
 
