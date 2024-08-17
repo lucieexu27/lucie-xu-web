@@ -16,16 +16,19 @@ weight = 120
 +++
 
 ### ECON 201: Intermediate Microeconomics 
-Instructor of record: Summer 2024
+Summer 2024
 
 ### ECON 600: Microeconomic Theory I (PhD)
-TA: Fall 2022, Fall 2023
+TA: Fall 2022, Fall 2023, Fall 2024
 
 ### ECON 601: Microeconomic Theory II (PhD)
 TA: Spring 2024
 
 ### ECON 201: Intermediate Microeconomics
-TA: Spring 2023, Fall 2023
+TA: Spring 2023, Fall 2023, Fall 2024 
 
 ### ECON 341: Business and Government 
-TA: Spring 2023
+TA: Spring 2023, Fall 2024
+
+### ECON 341: Managerial Economics 
+TA: Fall 2024
