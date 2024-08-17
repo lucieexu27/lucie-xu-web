@@ -6,7 +6,7 @@ title: Lucie Xu
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,6 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - Privacy
   - Game Theory
   - Information Design
 
@@ -64,5 +65,5 @@ social:
 highlight_name: true
 ---
 
-Lucie Xu is a 3rd year Ph.D. student of Economics and George. W. Woodruff Fellow at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. Lucie’s primary research interest is microeconomic theory, specifically information design and privacy.
+Lucie Xu is a 4th year Ph.D. candidate of Economics and George. W. Woodruff Fellow at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. Lucie’s primary research interest is microeconomic theory, specifically information design and privacy.
 
