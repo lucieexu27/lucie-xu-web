@@ -44,4 +44,7 @@ I play the piano and the cello. I have toured with an orchestra in Portugal and 
   <img src="https://github.com/user-attachments/assets/1a38392e-f204-402c-942d-9803f6dc136c" width=25% height=35%  />
 </p>
 
+I love taking photos of the places I have been able to visit. Some of my favorite destinations are pictured above: Paris, Iceland, and Hawaii. 
+
+
 
