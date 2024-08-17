@@ -33,7 +33,7 @@ I play the piano and the cello. I have toured with an orchestra in Portugal and 
 
 ### Photography
 <p float="middle">
-  <img src="https://github.com/user-attachments/assets/afef8993-adf4-45ae-ac54-99e55611fd8d" width=25% height=25%  /> &nbsp; &nbsp; <img src="https://github.com/user-attachments/assets/d4f98d3e-23d2-4385-9277-17432b66b30a" width=25% height=25%  /> &nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/1a38392e-f204-402c-942d-9803f6dc136c" width=25% height=35%  />
+  <img src="https://github.com/user-attachments/assets/afef8993-adf4-45ae-ac54-99e55611fd8d" width=40% height=40%  /> &nbsp; &nbsp; <img src="https://github.com/user-attachments/assets/d4f98d3e-23d2-4385-9277-17432b66b30a" width=40% height=40%  /> &nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/1a38392e-f204-402c-942d-9803f6dc136c" width=40% height=40%  />
 </p>
 
 
