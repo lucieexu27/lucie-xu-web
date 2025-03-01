@@ -18,7 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Privacy
+  - Industrial Organization
+  - Consumer Privacy
   - Game Theory
   - Information Design
 
