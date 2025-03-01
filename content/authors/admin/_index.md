@@ -65,5 +65,5 @@ social:
 highlight_name: true
 ---
 
-Lucie Xu is a 4th year Ph.D. candidate of Economics and George. W. Woodruff Fellow at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. Lucie’s primary research interest is microeconomic theory, specifically privacy and information design.
+Lucie Xu is a 4th year Ph.D. candidate of Economics and George. W. Woodruff Fellow at Emory University. She received her B.A. in Economics and Mathematics at Georgetown University. Lucie’s primary research interests are microeconomic theory and industrial organization, specifically related to consumer privacy and information. 
 
