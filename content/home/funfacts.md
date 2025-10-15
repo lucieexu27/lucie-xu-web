@@ -15,7 +15,7 @@ weight = 120
 +++
 
 ### Running 
-I am an Atlanta Track Club college ambassador at Emory and have loved running in various races in Atlanta. I've run a few half marathons, and plan on running a marathon in the near future.
+I was an Atlanta Track Club college ambassador at Emory and have loved running in various races in Atlanta.  
 
 
 ### Music
