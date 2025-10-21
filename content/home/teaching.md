@@ -24,7 +24,7 @@ TA: Spring 2024
 ### ECON 201: Intermediate Microeconomics
 Professor: Summer 2024, Spring 2026 (upcoming)
 
-TA: Spring 2023, Fall 2023, Fall 2024 
+TA: Fall 2022, Spring 2023, Fall 2023, Fall 2024 
 
 ### ECON 341: Business and Government 
 TA: Spring 2023, Fall 2024
