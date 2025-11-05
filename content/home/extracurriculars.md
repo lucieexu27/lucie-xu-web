@@ -17,31 +17,28 @@ weight = 130
 
 ### Running!
 
-<p float="middle">
-  <img src="https://github.com/user-attachments/assets/bfb296df-af4a-42be-a5c6-23c8b3ab7cd4" width=50% height=50% /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/62aecdfe-703d-40db-9e71-b14fa94b6cf4" width=30% height=30%  />
+<p align="center">
+  <img src="images/grouprun.jpg" width=50% /> 
+  <img src="images/half.jpg" width=30%  />
+  <img src="images/marathon.jpeg" width=30%   />
 </p>
 
 Running has become a big part of my life in Atlanta. I’ve connected with the local running community through the Atlanta Track Club as an ambassador, and have had a lot of fun at the various races through the year. I recently ran my first full marathon and got to explore the Silver Comet Trail while doing so! 
 
 
 ### Music
-<p float="middle">
-  <img src="https://github.com/user-attachments/assets/1078e768-06f2-4d13-86ab-e6413668fe85" width=50% height=50%  /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/a7220a62-529e-4883-abd6-11dc6c48fe18" width=30% height=30%  />
+<p align="center">
+  <img src="images/cello.jpg" width=50% /> 
+  <img src="images/quintet.jpg" width=30% />
 </p>
 
-I play the piano and the cello. I have toured with an orchestra in Portugal and played at Carnegie Hall in the past. I have also played in a few chamber music groups in college, including a double cello quintet! 
+I play the piano and cello for fun and have been lucky to share music with others over the years — from touring with an orchestra in Portugal to performing at Carnegie Hall. In college, I also loved playing chamber music, including a memorable double-cello quintet!
 
 ### Photography
-<p float="middle">
-  <img src="https://github.com/user-attachments/assets/afef8993-adf4-45ae-ac54-99e55611fd8d" width=40% height=40%  /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/d4f98d3e-23d2-4385-9277-17432b66b30a" width=40% height=40%  /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/1a38392e-f204-402c-942d-9803f6dc136c" width=40% height=50%  />
+<p align="center">
+  <img src="images/paris.jpg" width=40%   /> 
+  <img src="images/iceland.jpg" width=40%   /> 
+  <img src="images/hawaii.jpg" width=40% />
 </p>
 
 I love taking photos of the places I have been able to visit. Some of my favorite destinations are pictured above: Paris, Iceland, and Hawaii. 
