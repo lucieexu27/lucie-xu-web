@@ -18,8 +18,8 @@ weight = 130
 ### Running!
 
 <p align="center">
-  <img src="static/uploads/runambassador.jpg" width=50% /> 
-  <img src="/uploads/marathon.jpeg" width=50%   />
+  <img src='{{ "/uploads/runambassador.jpg" | relURL }}' width="50%" />
+  <img src='{{ "/uploads/marathon.jpeg" | relURL }}' width="50%" />
 </p>
 
 Running has become a big part of my life in Atlanta. I’ve connected with the local running community through the Atlanta Track Club as an ambassador, and have had a lot of fun at the various races through the year. I recently ran my first full marathon and got to explore the Silver Comet Trail while doing so! 
