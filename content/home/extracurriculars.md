@@ -23,7 +23,7 @@ weight = 130
   <img src="https://github.com/user-attachments/assets/62aecdfe-703d-40db-9e71-b14fa94b6cf4" width=30% height=30%  />
 </p>
 
-I was a college ambassador for the Atlanta Track Club. It has been a great experience to represent the club at my university. Being an ambassador has not only allowed me to connect to Emory's community, but also other runners from all over Atlanta. I have run a few half marathons in Atlanta, but would love to explore other areas for races. 
+Running has become a big part of my life in Atlanta. I’ve connected with the local running community through the Atlanta Track Club as an ambassador, and have had a lot of fun at the various races through the year. I recently ran my first full marathon and got to explore the Silver Comet Trail while doing so! 
 
 
 ### Music
