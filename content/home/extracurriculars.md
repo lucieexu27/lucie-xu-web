@@ -18,7 +18,7 @@ weight = 130
 ### Running!
 
 <p align="center">
-  <img src="/uploads/runambassador.jpg" width=50% /> 
+  <img src="static/uploads/runambassador.jpg" width=50% /> 
   <img src="/uploads/marathon.jpeg" width=50%   />
 </p>
 
