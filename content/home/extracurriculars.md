@@ -18,9 +18,8 @@ weight = 130
 ### Running!
 
 <p align="center">
-  <img src="images/grouprun.jpg" width=50% /> 
-  <img src="images/half.jpg" width=30%  />
-  <img src="images/marathon.jpeg" width=30%   />
+  <img src="/uploads/runambassador.jpg" width=50% /> 
+  <img src="/uploads/marathon.jpeg" width=50%   />
 </p>
 
 Running has become a big part of my life in Atlanta. I’ve connected with the local running community through the Atlanta Track Club as an ambassador, and have had a lot of fun at the various races through the year. I recently ran my first full marathon and got to explore the Silver Comet Trail while doing so! 
@@ -28,17 +27,17 @@ Running has become a big part of my life in Atlanta. I’ve connected with the l
 
 ### Music
 <p align="center">
-  <img src="images/cello.jpg" width=50% /> 
-  <img src="images/quintet.jpg" width=30% />
+  <img src="/uploads/yoyoma.JPG" width=50% /> 
+  <img src="/uploads/quintet.jpg" width=30% />
 </p>
 
-I play the piano and cello for fun and have been lucky to share music with others over the years — from touring with an orchestra in Portugal to performing at Carnegie Hall. In college, I also loved playing chamber music, including a memorable double-cello quintet!
+I play the piano and cello for fun and have been lucky to share music with others over the years — from touring with an orchestra in Portugal to performing at Carnegie Hall. In college, I also loved playing chamber music, including a memorable double-cello quintet. I also had the chance to soundcheck for Yoyo-Ma and the Silk Road Ensemble at a Gala! 
 
 ### Photography
 <p align="center">
-  <img src="images/paris.jpg" width=40%   /> 
-  <img src="images/iceland.jpg" width=40%   /> 
-  <img src="images/hawaii.jpg" width=40% />
+  <img src="/uploads/paris.jpg" width=40%   /> 
+  <img src="/uploads/iceland.JPG" width=40%   /> 
+  <img src="/uploads/hawaii.JPG" width=40% />
 </p>
 
 I love taking photos of the places I have been able to visit. Some of my favorite destinations are pictured above: Paris, Iceland, and Hawaii. 
